@@ -9,4 +9,6 @@ def taille:
 	else:
 		print("prenom rapide a ecrire")
 	return verif
-
+print(taille)
+taval = input("entre un chiffre")
+print(taval)
